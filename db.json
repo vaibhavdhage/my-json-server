@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "developers": [
+    { "name": "sameer", "college": "Don bosco"},
+    { "name": "Valerian", "college": "Don bosco"},
+    { "name": "Sparsh", "college": "VIT"}    
+  ]
 }
